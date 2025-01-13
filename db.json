@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Stormtrooper",
+      "cost": "250",
+      "image": "https://www.hasbro.com/common/productimages/es_MX/2D8209247B794B2A8257DDE729C6ABA2/b5bda6f4d40b8d774f36904172cfb13dc50a9889.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Grogu (Baby Yoda)",
+      "cost": "300",
+      "image": "https://m.media-amazon.com/images/I/51T6+wYym7L._AC_UF350,350_QL80_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Nintendo Switch",
+      "cost": "5300",
+      "image": "https://m.media-amazon.com/images/I/51Gz7IimgoL.jpg"
+    }
+  ]
+}

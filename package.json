@@ -1,0 +1,10 @@
+{
+    "name": "geekalura",
+    "version": "0.0.0",
+    "description": "plataforma de productos",
+    "main": "script.js",
+    "license": "ISC",
+    "dependencies": {
+      "json-server": "^1.0.0-beta.3"
+    }
+  }
